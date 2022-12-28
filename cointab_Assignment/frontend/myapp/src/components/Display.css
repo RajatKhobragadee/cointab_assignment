@@ -1,0 +1,45 @@
+.render{
+    margin-left: 20px;
+    padding: 40px;
+  
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .get_user_details{
+border: solid;
+width: 500px;
+margin: 10px 20px 10px 10px;
+padding: 20px;
+margin-top: 20px;
+  }
+
+  .Add_data{
+    border: solid;
+width: 500px;
+margin: 10px 20px 10px 10px;
+padding: 20px;
+margin-top: 10px;
+  }
+
+  .delete_data{
+    border: solid;
+    width: 500px;
+    margin: 10px 20px 10px 10px;
+    padding: 20px;
+    margin-top: 10px;
+  }
